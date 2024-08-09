@@ -1,0 +1,10 @@
+let a = 1;
+let b = 2;
+let c = 4;
+let d = 6;
+let e = 7;
+let f = 9;
+let g = 5;
+let sum1 = (a+b)*c;
+let sum2 = (d+e+f+g);
+console.log(sum1<sum2);

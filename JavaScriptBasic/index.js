@@ -1,0 +1,10 @@
+let name = "Lakshman Kumar";
+let age = 21;
+let gender = "Male";
+let has_Driving_licence = false;
+let citizen = true;
+console.log(name);
+console.log(age);
+console.log(gender);
+console.log(has_Driving_licence);
+console.log(citizen);
